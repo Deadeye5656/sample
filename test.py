@@ -20,10 +20,7 @@ fffffff
 fffff
 fffff
 fffff
-fffffd
-dfd
-dfdd
-
+fffff
 ff
 ff
 ffffffff
